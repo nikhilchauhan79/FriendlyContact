@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241442089509",
+    "firebase_url": "https://friendly-contact-default-rtdb.firebaseio.com",
+    "project_id": "friendly-contact",
+    "storage_bucket": "friendly-contact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241442089509:android:e45969ce3c4f7533912dcc",
+        "android_client_info": {
+          "package_name": "com.nikhilchauhan.friendlycontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241442089509-jh6rf1tfrrpkljk2lcrg6mg3i5g3e861.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbddF52QbFQh0DpxCWkyEj03jCEfD1nZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241442089509-jh6rf1tfrrpkljk2lcrg6mg3i5g3e861.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

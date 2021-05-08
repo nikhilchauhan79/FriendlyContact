@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_cuisine"
+            android:icon="@drawable/home_icon"
+            android:title="cuisine" />
+        <item
+            android:id="@+id/nav_diet"
+            android:icon="@drawable/home_icon"
+            android:title="Login Feature" />
+        <item
+            android:id="@+id/nav_equipment"
+            android:icon="@drawable/home_icon"
+            android:title="Register Email/password" />
+        <item
+            android:id="@+id/nav_type"
+            android:icon="@drawable/home_icon"
+            android:title="Type" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_share"
+                android:title="Share"
+                android:icon="@drawable/share"/>
+
+
+            <item android:id="@+id/nav_send"
+                android:title="Share"
+                android:icon="@drawable/send"/>
+
+
+        </menu>
+    </item>
+
+</menu>
